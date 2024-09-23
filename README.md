@@ -1,3 +1,5 @@
 <h1>Projeto Wise Wallet</h1>
+<br><br>
 
-<img src="TELA%20INICIAL%201.svg" alt="Descrição da Imagem">
+
+![TELA INICIAL 1](https://github.com/user-attachments/assets/80174107-2f4e-41d8-8f6b-a2b4d80f0156)
